@@ -1,0 +1,13 @@
+Pillow~=10.3.0
+pygame
+openai~=1.30.3
+google-cloud-vision
+requests~=2.32.2
+google-cloud-aiplatform
+google-cloud-language
+textract
+opencv-python
+numpy
+midiutil
+tensorflow
+pygame
